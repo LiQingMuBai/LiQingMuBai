@@ -10,21 +10,6 @@
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-<p>
-  <a href="" target="_blank" rel="noopener noreferrer">
-    <img
-      height="180em"
-      src="https://liqingmubai.github.io"
-      alt='github-stats'
-    />
-    <img
-      height="180em"
-      src="https://liqingmubai.github.io"
-      alt='github-stats-toplangs'
-    />
-    
-  </a>
-</p>
 
 **Some of the technologies I have worked with**
 
