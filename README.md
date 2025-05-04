@@ -1,3 +1,4 @@
+# Who I AM?
 
 
 **Languages I have used**
@@ -60,3 +61,8 @@
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=liqingmubai&theme=transparent&bg_color=000&border_color=AA42F7&show_icons=true&icon_color=AA42F7&title_color=AA42F7&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=liqingmubai&layout=compact&bg_color=000&border_color=AA42F7&title_color=AA42F7&text_color=FFF)
+
