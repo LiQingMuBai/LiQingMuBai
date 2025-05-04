@@ -62,6 +62,8 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+[![Thomas.J CHEN's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=liqingmubai&bg_color=000000&color=4981b6&line=000000&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=liqingmubai&theme=transparent&bg_color=000&border_color=AA42F7&show_icons=true&icon_color=AA42F7&title_color=AA42F7&text_color=FFF)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=liqingmubai&layout=compact&bg_color=000&border_color=AA42F7&title_color=AA42F7&text_color=FFF)
