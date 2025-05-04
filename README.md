@@ -3,8 +3,8 @@
 **Languages I have used**
 
 ![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=Go)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=lua)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=Rust)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=lua)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
@@ -39,7 +39,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-000000?style=flat&logo=cisco&logoColor=white)
-
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 **Web/Full Stack projects**
 
