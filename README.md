@@ -2,6 +2,7 @@
 
 
 **Languages I have used**
+
 ![Codex](https://img.shields.io/badge/-Codex-000000?style=flat&logo=Codex)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=Rust)
 ![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=Go)
