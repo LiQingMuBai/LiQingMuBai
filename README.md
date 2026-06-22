@@ -2,9 +2,9 @@
 
 
 **Languages I have used**
-
-![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=Go)
+![Codex](https://img.shields.io/badge/-Codex-000000?style=flat&logo=Codex)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=Rust)
+![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=Go)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=lua)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
